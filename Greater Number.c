@@ -1,4 +1,4 @@
-//simple c program to find which number entered by the user is greater and if its even or odd :}
+//simple c program to find which number entered by the user is greater :}
 #include<stdio.h>
 int main(){
   int num1,num2,num3;
